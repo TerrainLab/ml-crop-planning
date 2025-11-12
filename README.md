@@ -30,11 +30,12 @@ University of Denver
 
 ## Overview
 
-This project demonstrates the application of **Naive Bayes classification** to agricultural decision-making. Given soil nutrient data (N, P, K) and environmental conditions (temperature, humidity, pH, rainfall), our model predicts the optimal crop for those growing conditions.
+This project demonstrates the application of **Naive Bayes classification** to agricultural decision-making. Given soil nutrient data (N, P, K), pH, and environmental conditions (temperature, humidity, rainfall), our model predicts the optimal crop for those growing conditions.
 
 ### Problem Statement
 
-Modern agriculture faces the challenge of optimizing crop selection for varying conditions. Poor choices lead to:
+Modern agriculture faces the challenge of optimizing crop selection for varying conditions.  
+Poor choices lead to:
 - Reduced yields and economic losses
 - Inefficient resource utilization
 - Environmental degradation
@@ -42,7 +43,7 @@ Modern agriculture faces the challenge of optimizing crop selection for varying 
 ### Solution
 
 We apply probabilistic machine learning (Naive Bayes) to:
-- Learn crop preferences from historical data
+- Learn crop preferences from a dataset of soil and environmental features
 - Predict optimal crops for new conditions
 - Provide interpretable probability distributions
 - Scale efficiently to large multi-crop datasets
