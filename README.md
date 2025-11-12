@@ -323,17 +323,17 @@ Real agricultural applications would face:
 **Course**: COMP 3009: Applied Mathematics for Data Science and AI  
 **Instructor**: Dr. Ahmed Abdeen Hamed
 **Institution**: University of Denver  
-**Term**: 2024-2025
+**Term**: Fall 2025
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed for educational purposes as part of COMP 3009 coursework.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Course instructor for guidance on probabilistic modeling
 - Atharva Ingle for making the Crop Recommendation Dataset publicly available on Kaggle
@@ -342,7 +342,7 @@ This project is licensed for educational purposes as part of COMP 3009 coursewor
 
 ---
 
-## 📧 Contact
+## Contact
 
 For questions or collaboration:
 - Open an issue on GitHub
