@@ -6,13 +6,13 @@
 
 > A Naive Bayes classification system for agricultural crop recommendation based on soil nutrients and environmental conditions.
 
-**COMP 3009: Applied Math for Data Science and AI**  
+##### Final Project for **COMP 3009: Applied Math for Data Science and AI**  
 University of Denver  
 **Team**: Debasis Pani, Noah Sprenger, Sahithi Challapalli
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -53,12 +53,12 @@ We apply probabilistic machine learning (Naive Bayes) to:
 
 ---
 
-## ✨ Features
+## Features
 
 - **Manual Computation**: Step-by-step Bayesian probability calculations
 - **Feature Discretization**: Intelligent binning of continuous variables
 - **Python Implementation**: Scalable scikit-learn GaussianNB classifier
-- **Multi-Crop Support**: Handles 2-22 crop types
+- **Multi-Crop Support**: Handles 2+ crop types
 - **Comprehensive Diagnostics**: Cross-validation, sanity checks, and performance analysis
 - **Data Visualization**: Feature distribution plots and confusion matrices
 - **Production-Ready**: Configurable parameters and modular code structure
@@ -202,7 +202,7 @@ $$
 
 ---
 
-## 📊 Results
+## Results
 
 ### Performance Summary
 
@@ -300,7 +300,7 @@ Real agricultural applications would face:
 
 ---
 
-## 📚 References
+## References
 
 1. **Swetha, P., & Senthilkumar, J. (2025)**. Development of a Naive Bayes-based Framework for Optimizing Crop Recommendation System and Enhancing Agricultural Yield Prediction. *2025 4th International Conference on Sentiment Analysis and Deep Learning (ICSADL)*, Bhimdatta, Nepal, pp. 1262-1267. doi: [10.1109/ICSADL65848.2025.10933086](https://doi.org/10.1109/ICSADL65848.2025.10933086)
 
@@ -314,13 +314,14 @@ Real agricultural applications would face:
 
 ---
 
-## 👥 Team
+## Team
 
-- **Debasis Pani** - Implementation & Analysis
-- **Noah Sprenger** - Development & Documentation
-- **Sahithi Challapalli** - Research & Visualization
+- **Debasis Pani**
+- **Noah Sprenger**
+- **Sahithi Challapalli**
 
-**Course**: COMP 3009 - Applied Mathematics for Data Science and AI  
+**Course**: COMP 3009: Applied Mathematics for Data Science and AI  
+**Instructor**: Dr. Ahmed Abdeen Hamed
 **Institution**: University of Denver  
 **Term**: 2024-2025
 
