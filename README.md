@@ -12,6 +12,7 @@
 #### Final Project for **COMP 3009: Applied Math for Data Science and AI**  at the University of Denver 
 
 **Team**: Debasis Pani, Noah Sprenger, Sahithi Challapalli
+
 ---
 
 ## Project Resources
