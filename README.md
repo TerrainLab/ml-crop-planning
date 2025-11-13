@@ -14,9 +14,9 @@ University of Denver
 
 ## Project Resources
 
-- **View the [Jupyter Notebook](notebooks/crop_rec_models.ipynb)** - Complete implementation with manual calculations, Python code, and visualizations
-- **Download the [Presentation Deck](slides/final_deck.pdf)** - Summary of methodology, results, and key findings
-- **Read the [Full Report](report/final_report.pdf)** - In-depth mathematical analysis and discussion
+- **[Jupyter Notebook](notebooks/crop_rec_models.ipynb "View Notebook")** - Complete implementation with manual calculations, Python code, and visualizations
+- **[Presentation Deck](slides/final_deck.pdf "Download Slides")** - Summary of methodology, results, and key findings
+- **[Written Report](report/final_report.pdf "Download PDF Report")** - In-depth application and mathematical analysis with discussion
 
 ---
 
