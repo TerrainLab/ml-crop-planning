@@ -9,7 +9,7 @@
 
 > A Naive Bayes classification system for agricultural crop recommendation based on soil nutrients and environmental conditions.
 
-#### Final Project for **COMP 3009: Applied Math for Data Science and AI**  at the University of Denver 
+##### Final Project for _COMP 3009: Applied Math for Data Science and AI_ at the University of Denver 
 
 **Team**: Debasis Pani, Noah Sprenger, Sahithi Challapalli
 
