@@ -3,20 +3,22 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)](https://www.python.org/)
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)](https://jupyter.org/)
 [![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)](https://scikit-learn.org/)
+[![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)](https://numpy.org)
+![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
+
 
 > A Naive Bayes classification system for agricultural crop recommendation based on soil nutrients and environmental conditions.
 
-##### Final Project for **COMP 3009: Applied Math for Data Science and AI**  
-University of Denver  
-**Team**: Debasis Pani, Noah Sprenger, Sahithi Challapalli
+#### Final Project for **COMP 3009: Applied Math for Data Science and AI**  at the University of Denver 
 
+**Team**: Debasis Pani, Noah Sprenger, Sahithi Challapalli
 ---
 
 ## Project Resources
 
-- **[Jupyter Notebook](notebooks/crop_rec_models.ipynb "View Notebook")** - Complete implementation with manual calculations, Python code, and visualizations
-- **[Presentation Deck](slides/final_deck.pdf "Download Slides")** - Summary of methodology, results, and key findings
-- **[Written Report](report/final_report.pdf "Download PDF Report")** - In-depth application and mathematical analysis with discussion
+- [Jupyter Notebook](notebooks/crop_rec_models.ipynb "View Notebook") - Complete implementation with manual calculations, Python code, and visualizations
+- [Presentation Deck](slides/final_deck.pdf "Download Slides") - Summary of methodology, results, and key findings
+- [Written Report](report/final_report.pdf "Download PDF Report") - Discussion of application and analysis, primarily focused on the math of the project
 
 ---
 
@@ -68,10 +70,10 @@ We apply probabilistic machine learning (Naive Bayes) to:
 - **Manual Computation**: Step-by-step Bayesian probability calculations
 - **Feature Discretization**: Intelligent binning of continuous variables
 - **Python Implementation**: Scalable scikit-learn GaussianNB classifier
-- **Multi-Crop Support**: Handles 2+ crop types
-- **Comprehensive Diagnostics**: Cross-validation, sanity checks, and performance analysis
-- **Data Visualization**: Feature distribution plots and confusion matrices
-- **Production-Ready**: Configurable parameters and modular code structure
+- ***Configurable Parameters:*** Adjust model configuration between runs
+   -    **Multi-Crop Support**: Handles 2+ crop types
+   -    **Comprehensive Diagnostics**: Cross-validation, sanity checks, and performance analysis
+   -    **Data Visualization**: Feature distribution plots and confusion matrices
 
 ---
 
@@ -339,15 +341,15 @@ Real agricultural applications would face:
 
 ## License
 
-This project is licensed for educational purposes as part of COMP 3009 coursework.
+This project was created for academic purposes in COMP 3009 at the University of Denver.  
+Feel free to reference or learn from this repository. If used in academic work, please cite responsibly.
 
 ---
 
 ## Acknowledgments
-
-- Course instructor for guidance on probabilistic modeling
-- Atharva Ingle for making the Crop Recommendation Dataset publicly available on Kaggle
-- Swetha & Senthilkumar for foundational research on crop recommendation systems
+- Dr. Ahmed Abdeen Hamed, for guiding us on probabilitsic modeling and inspiring us to tackle a real world problem
+- Atharva Ingle for the Crop Recommendation Dataset, available on Kaggle  
+- Swetha & Senthilkumar for foundational research on crop recommendation systems  
 - Open-source community for excellent ML tools (scikit-learn, pandas, matplotlib)
 
 ---
@@ -355,8 +357,8 @@ This project is licensed for educational purposes as part of COMP 3009 coursewor
 ## Contact
 
 For questions or collaboration:
-- Open an issue on GitHub
-- Contact team members through university email
+- [Open an issue](https://github.com/TerrainLab/ml-crop-planning/issues/new) on GitHub
+- Contact [team members](https://github.com/orgs/TerrainLab/people)
 
 ---
 
