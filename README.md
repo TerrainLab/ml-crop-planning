@@ -1,8 +1,8 @@
 # Machine Learning for Smarter Crop Planning
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green)](https://scikit-learn.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)](https://www.python.org/)
+[![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)](https://jupyter.org/)
+[![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)](https://scikit-learn.org/)
 
 > A Naive Bayes classification system for agricultural crop recommendation based on soil nutrients and environmental conditions.
 
@@ -11,6 +11,15 @@ University of Denver
 **Team**: Debasis Pani, Noah Sprenger, Sahithi Challapalli
 
 ---
+
+## Project Resources
+
+- **View the [Jupyter Notebook](notebooks/crop_rec_models.ipynb)** - Complete implementation with manual calculations, Python code, and visualizations
+- **Download the [Presentation Deck](slides/final_deck.pdf)** - Summary of methodology, results, and key findings
+- **Read the [Full Report](report/final_report.pdf)** - In-depth mathematical analysis and discussion
+
+---
+
 
 ## Table of Contents
 
