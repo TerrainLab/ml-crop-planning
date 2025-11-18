@@ -20,8 +20,8 @@
 > [Download .ipynb ↓](https://github.com/TerrainLab/ml-crop-planning/blob/main/notebooks/crop_rec_models.ipynb?raw=0)
 
 > #### Presentation Deck
-> [View Slides ↗](./slides/presentation.pdf "View Slides")  
-> [Download PDF ↓](./slides/presentation.pdf?raw=1)
+> [View Slides ↗](./slides/final_deck.pdf "View Slides")  
+> [Download PDF ↓](./slides/final_deck.pdf?raw=1)
 
 > #### Final Report
 > [View Report ↗](./report/report.pdf "View Report")  
