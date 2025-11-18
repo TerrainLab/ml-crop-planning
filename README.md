@@ -22,7 +22,7 @@
 > [View Slides ↗](./slides/final_deck.pdf "View Slides")  
 
 > #### Final Report
-> [View Report ↗](./report/report.pdf "View Report")  
+> [View Report ↗](./report/Final_Report.pdf "View Report")  
 
 ---
 
