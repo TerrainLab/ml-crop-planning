@@ -17,7 +17,7 @@
 
 > #### Jupyter Notebook  
 > [Open Notebook ↗](./notebooks/crop_rec_models.ipynb "View Notebook")  
-> [Download .ipynb ↓](https://github.com/TerrainLab/ml-crop-planning/blob/main/notebooks/crop_rec_models.ipynb?raw=1)
+> [Download .ipynb ↓](https://github.com/TerrainLab/ml-crop-planning/blob/main/notebooks/crop_rec_models.ipynb?raw=0)
 
 > #### Presentation Deck
 > [View Slides ↗](./slides/presentation.pdf "View Slides")  
