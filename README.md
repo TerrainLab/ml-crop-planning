@@ -15,9 +15,9 @@
 ---
 ## Project Resources
 
-> #### Jupyter Notebook
+> #### Jupyter Notebook  
 > [Open Notebook ↗](./notebooks/crop_rec_models.ipynb "View Notebook")  
-> [Download .ipynb ↓](./notebooks/crop_rec_models.ipynb?raw=1)
+> [Download .ipynb ↓](https://raw.githubusercontent.com/TerrainLab/ml-crop-planning/afd54220182e137edc067cc5e4b375b47d4a33c5/notebooks/crop_rec_models.ipynb)
 
 > #### Presentation Deck
 > [View Slides ↗](./slides/presentation.pdf "View Slides")  
