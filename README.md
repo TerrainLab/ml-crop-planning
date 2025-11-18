@@ -1,11 +1,10 @@
 # Machine Learning for Smarter Crop Planning
 
+[![Jupyter Badge](https://img.shields.io/badge/JupyterLab-Notebook-orange?style=flat-square&logo=jupyter&logoColor=white&label=JupyterLab&labelColor=orange&color=grey)](notebooks/crop_rec_models.ipynb)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)](https://www.python.org/)
-[![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat-square)](https://jupyter.org/)
 [![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)](https://scikit-learn.org/)
 [![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)](https://numpy.org)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
-
 
 > A Naive Bayes classification system for agricultural crop recommendation based on soil nutrients and environmental conditions.
 
@@ -14,12 +13,19 @@
 **Team**: Debasis Pani, Noah Sprenger, Sahithi Challapalli
 
 ---
-
 ## Project Resources
 
-- [Jupyter Notebook](notebooks/crop_rec_models.ipynb "View Notebook") - Complete implementation with manual calculations, Python code, and visualizations
-- [Presentation Deck](slides/final_deck.pdf "Download Slides") - Summary of methodology, results, and key findings
-- [Written Report](report/final_report.pdf "Download PDF Report") - Discussion of application and analysis, primarily focused on the math of the project
+> #### Jupyter Notebook
+> [Open Notebook ↗](./notebooks/crop_rec_models.ipynb "View Notebook")  
+> [Download .ipynb ↓](./notebooks/crop_rec_models.ipynb?raw=1)
+
+> #### Presentation Deck
+> [View Slides ↗](./slides/presentation.pdf "View Slides")  
+> [Download PDF ↓](./slides/presentation.pdf?raw=1)
+
+> #### Final Report
+> [View Report ↗](./report/report.pdf "View Report")  
+> [Download PDF ↓](./report/report.pdf?raw=1)
 
 ---
 
